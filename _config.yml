@@ -1,0 +1,54 @@
+title: Head and Neck Ultrasound Quick-Start
+description: >-
+  Practical head and neck ultrasound teaching for radiology residents and sonographers.
+theme: just-the-docs
+
+url: "https://rosewarnedm.github.io"
+baseurl: "/head-neck-ultrasound-quickstart"
+
+color_scheme: light
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+nav_sort: case_insensitive
+heading_anchors: true
+
+footer_content: >-
+  Head and Neck Ultrasound Quick-Start &mdash; AI-generated content requires expert review before clinical use.
+
+callouts_level: quiet
+callouts:
+  note:
+    title: Note
+    color: purple
+  important:
+    title: Important
+    color: blue
+  warning:
+    title: Warning
+    color: red
+  tip:
+    title: Tip
+    color: green
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - raw/
+  - Gemfile
+  - Gemfile.lock
+  - "*.py"
+  - "*.sh"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-tabs
