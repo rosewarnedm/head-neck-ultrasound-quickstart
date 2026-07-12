@@ -8,9 +8,9 @@ nav_order: 999
 
 _Auto-generated from the publication git history of the Head and Neck Ultrasound site. This page tracks editing progress and is **not** clinical content._
 
-Generated 2026-07-12 14:55 · 1 commit(s) tracked (2026-07-04 → 2026-07-04).
+Generated 2026-07-12 16:13 · 2 commit(s) tracked (2026-07-04 → 2026-07-12).
 
-![Head and Neck Ultrasound editing progress over time]({{ '/docs/img/progress_hnus.png' | relative_url }})
+![Head and Neck Ultrasound editing progress over time]({{ '/docs/img/progress_hnus.png' | relative_url }}?v=2-11-169-0)
 
 ## Latest counts
 
